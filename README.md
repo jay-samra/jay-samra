@@ -13,7 +13,7 @@ class AboutMe:
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=jay-samra&theme=sea&stroke=EF48416A&border=EBEBEB&ring=FFFFFF&background=93C0F4&fire=B91104&dates=FFFFFF" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=jay-samra&theme=sea&stroke=FFDCD7A0&border=EBEBEB&ring=003366&background=BBDEFB&fire=C91204&dates=003366&currStreakNum=003366&sideNums=003366&currStreakLabel=003366&sideLabels=003366" alt="GitHub Streak" />
   </a>
 </div>
 
